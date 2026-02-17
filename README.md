@@ -10,7 +10,7 @@ ESP32-S3 firmware that reads the current frequency from an mcHF transceiver via 
 
 ## Hardrock 50 Setup
 
-The HR50 ACC serial port baud rate must be set to **19200** to match the firmware default.
+The HR50 ACC serial port baud rate must be set to **19200** to match the sketch default.
 
 ## Building
 
